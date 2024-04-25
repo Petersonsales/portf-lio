@@ -1,6 +1,6 @@
 ```
 #Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-![image] (https:github.com/petersonsales/portfolio/blob/main/portfolio.png?raw=true
+![image](https:github.com/petersonsales/portfolio/blob/main/portfolio.png?raw=true)
 
 ##Ferramentas utilizadas:?
 
