@@ -1,19 +1,19 @@
 ```
-#Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 ![image](https:github.com/petersonsales/portfolio/blob/main/portfolio.png?raw=true)
 
 ##Ferramentas utilizadas:?
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*Flex-box
+* Flex-box
 
-##Feito por:
+## Feito por:
 
-###Peterson Sales
+### Peterson Sales
 
-###Linkedin:https://www.linkedin.com/in/peterson-sales-gomes-38355b278/
+### Linkedin:https://www.linkedin.com/in/peterson-sales-gomes-38355b278/
 
 ```
