@@ -1,8 +1,9 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-![image](https:github.com/petersonsales/portfolio/blob/main/portfolio.png?raw=true)
+![imagem](https://github.com/Petersonsales/portf-lio/assets/153541410/77c107aa-ab3e-4167-aa38-4b92a2862c1e)
 
-##Ferramentas utilizadas:?
+
+## Ferramentas utilizadas:
 
 * HTML
 
